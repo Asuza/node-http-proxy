@@ -1,5 +1,5 @@
 {
-  "name"           : "http-proxy-router",
+  "name"           : "http-router",
   "version"        : "1.4.4",
 
   "repository"     : {
